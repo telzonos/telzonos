@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-**[👉 Open TelzonOS](https://yourusername.github.io/telzonos/)**
+**[👉 Open TelzonOS](https://telzonos.github.io/telzonos/)**
 
 ## ✨ Unique Features
 
